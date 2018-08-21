@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.simonesestito.wallapp",
+      "sha256_cert_fingerprints": [
+        "C8:FD:67:7A:A3:0A:AF:60:3D:D3:00:22:76:DC:5C:29:DE:1D:DC:81:60:D6:1F:18:63:F5:30:BB:CA:67:6D:A0",
+        "50:47:4B:54:76:D6:54:36:16:10:63:06:24:38:B9:0C:CA:AF:36:16:0D:B1:9A:95:32:3F:0F:50:FA:B1:FF:43"
+      ]
+    }
+  }
+]

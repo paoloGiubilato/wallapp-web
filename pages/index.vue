@@ -19,7 +19,8 @@
 <template>
   <div id="app">
     <Logo />
-    <Appbar class="landing-title" />
+    <!--<Appbar class="landing-title" />-->
+    <h1 class="center landing-subtitle">WallApp</h1>
     <p class="center landing-title">No ads. No tricks. Just wallpapers.</p>
     <p class="center landing-title"><b>Download now.</b></p>
     <Badges class="badge-section" />
@@ -47,15 +48,18 @@ export default {
 
 <style scoped>
 .landing-subtitle {
-  margin: 1.8em;
+  margin-top: 0.5em;
+  margin-bottom: 3em;
+  color: #2988D1;
 }
 
 .landing-title {
-  margin: 3em;
+  margin-top: 1em;
+  color: #6e6e6e
 }
 
 .badge-section {
-  margin: 4em 0;
+  margin: 1em 0;
 }
 </style>
 

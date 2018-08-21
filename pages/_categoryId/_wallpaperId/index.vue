@@ -23,7 +23,7 @@
     <div class="download-section">
       <p class="center">
         Do you like this wallpaper?<br>
-        Install the app to download it on your smartphone!
+        Install <b>WallApp</b> to download it!
       </p>
       <Badges />
     </div>
@@ -32,7 +32,9 @@
 
 <style scoped>
 .download-section {
-  margin-top: 3em;
+  margin-top: 1.5em;
+  color: #6e6e6e;
+  font-weight: 500;
 }
 </style>
 

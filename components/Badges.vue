@@ -26,7 +26,7 @@
 <style scoped>
 .badge-section {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
 }
 </style>

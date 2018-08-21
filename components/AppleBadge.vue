@@ -28,7 +28,7 @@
   background-repeat: no-repeat;
   background-size: contain;
   width: 135px;
-  height: 40px;
+  height: 44px;
 }
 </style>
 

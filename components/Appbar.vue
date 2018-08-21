@@ -28,7 +28,7 @@
 }
 
 .appbar-title {
-  color: black;
+  color: #2988D1;
   text-align: center;
 }
 </style>

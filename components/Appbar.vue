@@ -24,7 +24,6 @@
 
 <style scoped>
 .appbar {
-  background-color: white;
   height: 2rem;
 }
 
